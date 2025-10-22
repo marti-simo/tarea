@@ -39,4 +39,4 @@ Es un estándar de la industria de las telecomunicaciones y la informática para
 ### Jack de salida de audio (puerto verde)
 ### Jack de micrófono (puerto rosa)
 
-![IMAGEN PARTE PLACA 7](img/
+![IMAGEN PARTE PLACA 7](img/Screenshot_20251022_125831.png)
