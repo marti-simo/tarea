@@ -4,19 +4,28 @@
 
 ## 1. Vamos a explicar y a enseñar todos los conectores de una placa base
 
-* **Conector PS/2 Para ratón:** conector mini-DIN de 6 patillas que se utiliza para conectar ratones a un sistema informático compatible con PC.
+### Conector PS/2 Para ratón
+Conector mini-DIN de 6 patillas que se utiliza para conectar ratones a un sistema informático compatible con PC.
 
 
 ![IMAGEN PARTE PLACA 1](img/Screenshot_20251022_125622.png)
 
-* **Conector PS/2 Para teclado:** conector mini-DIN de 6 patillas que se utiliza para conectar teclados a un sistema informático compatible con PC.
+### Conector PS/2 Para teclado
+Conector mini-DIN de 6 patillas que se utiliza para conectar teclados a un sistema informático compatible con PC.
   
 ![IMAGEN PARTE PLACA 2](img/Screenshot_20251022_125734.png)
 
-* **Puerto paralelo:** sirve para conectar dispositivos periféricos a una computadora, como impresoras, escáneres y discos duros, transmitiendo datos de forma simultánea en varios bits a la vez.
+### Puerto paralelo
+Sirve para conectar dispositivos periféricos a una computadora, como impresoras, escáneres y discos duros, transmitiendo datos de forma simultánea en varios bits a la vez.
 
 ![IMAGEN PARTE PLACA 3](img/Screenshot_20251022_125749.png)
 
-* **Puerto vga:** sirve para transmitir señales de video analógicas desde una computadora a un monitor, proyector o televisor.
+ ### Puerto VGA
+Sirve para transmitir señales de video analógicas desde una computadora a un monitor, proyector o televisor.
 
-![IMAGEN PARTE PLACA 4](img/
+![IMAGEN PARTE PLACA 4](img/Screenshot_20251022_133214.png)
+
+### Puertos USB
+Sirven para conectar y comunicar dispositivos electrónicos, permitiendo la transferencia de datos (como archivos, fotos o música) y la alimentación eléctrica para cargar o dar energía a otros aparatos, como teléfonos, discos duros externos o impresoras.
+
+![IMAGEN PARTE PLACA 5](img/
