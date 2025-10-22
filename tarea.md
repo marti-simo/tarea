@@ -33,4 +33,10 @@ Sirven para conectar y comunicar dispositivos electrónicos, permitiendo la tran
 ### Puerto RJ-45
 Es un estándar de la industria de las telecomunicaciones y la informática para terminaciones de cables de red, que se utiliza para conectar dispositivos como computadoras, routers y consolas de juegos a una red local (LAN).
 
-![IMAGEN PARTE PLACA 6](img/
+![IMAGEN PARTE PLACA 6](img/Screenshot_20251022_125816.png)
+
+### Jack de entrada de audio (puerto azul)
+### Jack de salida de audio (puerto verde)
+### Jack de micrófono (puerto rosa)
+
+![IMAGEN PARTE PLACA 7](img/
