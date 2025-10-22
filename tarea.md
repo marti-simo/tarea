@@ -28,4 +28,9 @@ Sirve para transmitir señales de video analógicas desde una computadora a un m
 ### Puertos USB
 Sirven para conectar y comunicar dispositivos electrónicos, permitiendo la transferencia de datos (como archivos, fotos o música) y la alimentación eléctrica para cargar o dar energía a otros aparatos, como teléfonos, discos duros externos o impresoras.
 
-![IMAGEN PARTE PLACA 5](img/
+![IMAGEN PARTE PLACA 5](img/Screenshot_20251022_125804.png)
+
+### Puerto RJ-45
+Es un estándar de la industria de las telecomunicaciones y la informática para terminaciones de cables de red, que se utiliza para conectar dispositivos como computadoras, routers y consolas de juegos a una red local (LAN).
+
+![IMAGEN PARTE PLACA 6](img/
