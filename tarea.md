@@ -1,2 +1,3 @@
 # CONECTORES EXTERNOS DE UNA PLACA BASE
 
+![IMAGEN DE LA PLACA BASE](img/conectoresplacabase.png)
