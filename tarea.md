@@ -35,8 +35,10 @@ Es un estándar de la industria de las telecomunicaciones y la informática para
 
 ![IMAGEN PARTE PLACA 6](img/Screenshot_20251022_125816.png)
 
-### Jack de entrada de audio (puerto azul)
-### Jack de salida de audio (puerto verde)
+### Jack de entrada y salida de audio (puerto azul y verde)
+Es una conexión de audio versátil que permite conectar varios dispositivos al ordenador.
+
 ### Jack de micrófono (puerto rosa)
+Sirve para conectar un micrófono a un dispositivo de audio o electrónico, como una computadora, cámara o amplificador, para transmitir señales de audio de forma analógica. 
 
 ![IMAGEN PARTE PLACA 7](img/Screenshot_20251022_125831.png)
