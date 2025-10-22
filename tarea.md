@@ -14,3 +14,5 @@
 ![IMAGEN PARTE PLACA 2](img/Screenshot_20251022_125734.png)
 
 * Puerto paralelo: sirve para conectar dispositivos periféricos a una computadora, como impresoras, escáneres y discos duros, transmitiendo datos de forma simultánea en varios bits a la vez.
+
+![IMAGEN PARTE PLACA 3](img/Screenshot_20251022_125749.png)
